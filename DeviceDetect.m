@@ -11,6 +11,9 @@
 
 @implementation DeviceDetect
 
+// reference http://stackoverflow.com/questions/11197509/ios-how-to-get-device-make-and-model
+
+
 + (NSString *)thisDevice {
     
     struct utsname systemInfo;
