@@ -9,10 +9,10 @@ Import .h and .m into your project and add
 #import "ViewController.h"
 ```
 
-Then:
+Then, use the following method that returns a string:
 
 ```objc
-[DeviceDetect thisDevice];
+[DeviceDetect thisDevice]
 ```
 
 ### Development
