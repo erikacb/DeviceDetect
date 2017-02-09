@@ -15,10 +15,10 @@ Then, use the following method that returns a string:
 [DeviceDetect thisDevice]
 ```
 
-Possible returns:
-* SB40 for iPhones 5, 5S, 5C and SE
-* SB47 for iPhones 6, 6S and 7
-* SB55 for iPhone 6+, 6S+ and 7+
+Possible string returns:
+* **SB40** for iPhones 5, 5S, 5C and SE
+* **SB47** for iPhones 6, 6S and 7
+* **SB55** for iPhone 6+, 6S+ and 7+
 
 ### Development
 
